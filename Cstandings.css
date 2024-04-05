@@ -1,0 +1,30 @@
+*{
+    background-image: url('./imgs/F1-bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.h2{
+    font-weight: bold;
+}
+.p1{
+    text-align: justify;
+}
+.text-box-left{
+    padding: 15px;
+    padding-bottom: 0%;
+    text-align: justify;
+    font-weight: bold;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.img1, .img2, .img3{
+    height: 350px;
+    width: 650px;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding: 15px;
+    padding-bottom: 0%;
+}
